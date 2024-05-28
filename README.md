@@ -20,7 +20,7 @@ To run the code in this repository, you'll need the following dependencies:
 You can install the dependencies using pip.
 
 ## Result
-The formula is y = a1 * x1 + a2 * x2 + a3 * x3 + b for our data. x1, x2, x3 are features. a1, a2, a3 represent the coefficient or slope of the line which I found it with "reg.coef_" code. b represents the y-intercept which I found it with "reg.intercept_" code:
+The formula is y = a1 * x1 + a2 * x2 + a3 * x3 + b for our data. x1, x2, x3 are features. a1, a2, a3 represent the coefficients which I found them with "reg.coef_" code. b represents the y-intercept which I found it with "reg.intercept_" code:
 - a1 = 2812.95487627
 - a2 = 1845.70596798
 - a3 = 2205.24017467
